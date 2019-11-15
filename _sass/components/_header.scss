@@ -50,6 +50,10 @@
     @include media-breakpoint-down(md) {
       height: map-get($layout, header-height-sm);
     }
+    & > a#title {
+      font-size: 30px;
+      font-weight: 700;
+    }
   }
   & > .search-button {
     display: none;
@@ -59,6 +63,8 @@
     }
   }
 }
+
+
 
 .header__brand {
   @include flexbox();
