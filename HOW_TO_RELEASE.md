@@ -3,7 +3,7 @@
 ## Preparation
 
 - diff configs (*_config.yml*, *docs/_config.yml*, *docs/_config.dev.yml*, *test/_config.yml*)
-- diff data dirs (*_data*, *docs/_data*, *test/_data*)
+- diff data dirs (*_data/home/pieromack/development/latex/essay/episode.gif*, *docs/_data*, *test/_data*)
 - *assets/css/main.scss* use configurable skin
 - *screenshot.jpg* is the same as *screenshots/TeXt-home.jpg*
 - update *CHANGELOG.md*
